@@ -1,0 +1,27 @@
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #f5f6fa;
+}
+
+section {
+  scroll-margin-top: 70px;
+}
+
+.part-title {
+  margin-top: 40px;
+  margin-bottom: 20px;
+  padding-bottom: 8px;
+  border-bottom: 3px solid #0d6efd;
+}
+
+.task-box {
+  background-color: #ffffff;
+  padding: 25px;
+  margin-bottom: 30px;
+  border-radius: 8px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1);
+}
